@@ -2,6 +2,8 @@
 Card database backend for MTG Magical
 
 
+YAY!
+
 
 
 ## Netlify front end
